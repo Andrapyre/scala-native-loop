@@ -3,7 +3,7 @@ name: CI
 on:
   push:
     branches:
-      - master
+      -  scala-native-0.5.x
     tags:
       - '*'
   pull_request:
